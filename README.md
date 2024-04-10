@@ -6,7 +6,7 @@ The Weather App is a dynamic web application designed to provide users with real
 
 # To run the Weather App locally, follow these steps:
 
-# Step-1 : Copy code
+# Step-1 : Clone the repository.
 
 git clone :  [https://github.com/harshaa2612/Weather-App-main-2.git]
 
