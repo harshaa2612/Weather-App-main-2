@@ -8,7 +8,7 @@ The Weather App is a dynamic web application designed to provide users with real
 
 # Step-1 : Copy code
 
-git clone :  https://github.com/ShivaMishra0224/Weather-App.git
+git clone :  [https://github.com/harshaa2612/Weather-App-main-2.git]
 
 # Step-2 :
 
@@ -16,5 +16,5 @@ Add a Weather API.
 
 # Step-3 : 
 
-Now go Live to see Weather App Webpage.
+Now go Live Server to see Weather App Webpage.
 
